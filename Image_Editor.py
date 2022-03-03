@@ -1,5 +1,7 @@
 from tkinter import *
 import cv2 as cv
+#pip install opencv-python
+#pip install tk
 
 root = Tk()
 root.title("Image Editor")
