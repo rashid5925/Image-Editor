@@ -1,7 +1,7 @@
-from tkinter import *
-import cv2 as cv
-#pip install opencv-python
 #pip install tk
+from tkinter import *
+#pip install opencv-python
+import cv2 as cv
 
 root = Tk()
 root.title("Image Editor")
